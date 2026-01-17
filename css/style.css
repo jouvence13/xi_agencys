@@ -142,6 +142,11 @@ section {
     box-shadow: var(--shadow);
 }
 
+.navbar-brand img {
+    height: 60px;
+    width: auto;
+}
+
 .social-icons a {
     width: 28px;
     height: 28px;
